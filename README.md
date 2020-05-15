@@ -3,7 +3,7 @@
 
 Please note that to launch webdriver you must have it installed on your computer (I was using Chrome webdriver).
 This Instagram web scraper will not work properly for accounts or posts that have more than 1000 likes/followers/following (it can work but it will take a lot of time).
-Also some file paths must be edited.
+Also some file paths in Jupyter file must be edited.
 
 Program may not work because:
 - username.txt or password.txt is empty,
